@@ -1,4 +1,8 @@
-const Dummy = () => {
-}
+const Dummy = () => (
+  <>
+    <input />
+    <button />
+  </>
+);
 
-export default Dummy
+export default Dummy;

@@ -1,4 +1,9 @@
 import Item from "./Item";
 
-const Checkout = () => {}
-export default Checkout
+const Checkout = () => (
+  <div>
+    Checkout Component
+    <Item />
+  </div>
+);
+export default Checkout;
